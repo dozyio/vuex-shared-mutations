@@ -1,6 +1,6 @@
 {
-  "name": "vuex-shared-mutations",
-  "version": "1.0.2",
+  "name": "vuex-shared-mutations-vue2",
+  "version": "1.0.3",
   "description": "Share vuex mutations across tabs via localStorage",
   "main": "dist/vuex-shared-mutations.js",
   "scripts": {
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xanf/vuex-shared-mutations.git"
+    "url": "git+https://github.com/dozyio/vuex-shared-mutations.git"
   },
   "keywords": [
     "vue",
